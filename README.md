@@ -1,5 +1,6 @@
 # Readme - Data and Code
 **Paper:** No deforestation reductions from roll-out of community land tenure in Indonesia yet
+
 **Authors:** Sebastian Kraus, Jacqueline Liu, Nicolas Koch, and Sabine Fuss
 
 The code in this replication package constructs the analysis files from the two main data sources (KLHK, 2020; Hansen et al, 2013; Margono ) using Google Earth Engine, R and Stata. The main table can be generated with the file `code/analysis/mainTable.do`. The main map is built with the QGIS file `mainMap.qgz`. 
